@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Go_to_Broser</string>
+
+    <string name="btn_browse">访问</string>
+
+    <string name="hint_edit">请输入想访问的网址</string>
+
+    请输入想访问的网址
+
+</resources>
